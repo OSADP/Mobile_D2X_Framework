@@ -1,0 +1,11 @@
+﻿
+Key contributors to the development of the D2X Hub Framework 1.0 include:
+Kristi Guspan, Ben Paselsky, Greg Baumgardner, Greg Zink, Dave Charlson
+
+Project Manager:
+Dave Valentine
+
+The developers also wish to acknowledge several contributors to this study:
+
+Jon Obenberger (FHWA). 
+
